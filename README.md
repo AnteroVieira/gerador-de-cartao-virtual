@@ -14,12 +14,12 @@ Uma aplicação web moderna e responsiva desenvolvida para simular a emissão in
 
 <div align="center">
   <h3>1. Formulário de Cadastro</h3>
-  <img src="./assets/preview2.png" alt="Tela de Cadastro" width="700px" style="border-radius: 8px;">
+  <img src="./images/preview1.png" alt="Tela de Cadastro" width="700px" style="border-radius: 8px;">
 
   <br><br>
 
   <h3>2. Cartão Virtual Gerado (Verde Menta)</h3>
-  <img src="./assets/preview.png" alt="Cartão Virtual Gerado" width="700px" style="border-radius: 8px;">
+  <img src="./images/preview2.png" alt="Cartão Virtual Gerado" width="700px" style="border-radius: 8px;">
 </div>
 
 ---
@@ -51,6 +51,3 @@ Caso queira clonar e testar o projeto na sua máquina:
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/AnteroVieira/gerador-de-cartao-virtual.git](https://github.com/AnteroVieira/gerador-de-cartao-virtual.git)
-
-   Acesse a pasta do projeto digitando " cd gerador-de-cartao-virtual " no terminal.
-   Abra o arquivo index.html em qualquer navegador web.
